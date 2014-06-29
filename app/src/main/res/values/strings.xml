@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MagicEightBall</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ask_button">Ask the Magic Eight Ball!</string>
+    <string name="ask">Ask the Magic Eight Ball!</string>
+
+</resources>
